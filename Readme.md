@@ -1,1 +1,1 @@
-Olá!
+Esse é um projeto de uma calculaora padrão feita com HTML, CSS & JS.
